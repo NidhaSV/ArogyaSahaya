@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Arogya Sahaya</string>
+    <string name="app_tagline">Your Digital Health Companion</string>
+
+    <!-- Onboarding -->
+    <string name="welcome_title">Welcome to Arogya Sahaya</string>
+    <string name="welcome_subtitle">Your personal health companion for medicine reminders and vital tracking.</string>
+
+    <!-- Home -->
+    <string name="sos_button_label">SOS\nCall for Help</string>
+    <string name="greeting_format">Namaste, %1$s!</string>
+
+    <!-- Medicine -->
+    <string name="add_medicine">Add Medicine</string>
+    <string name="no_medicines">No medicines added yet. Tap + to add your first medicine.</string>
+
+    <!-- Vitals -->
+    <string name="vital_log_title">Vital Log</string>
+    <string name="chart_no_data">Log vitals for 7 days to see your trend graph</string>
+
+    <!-- ASHA -->
+    <string name="asha_connect_title">ASHA Connect</string>
+    <string name="no_asha_events">No upcoming events</string>
+
+    <!-- Notifications -->
+    <string name="notif_medicine_title">Time for your %1$s medicine</string>
+    <string name="notif_medicine_body">%1$s — %2$s. Tap to mark as Taken.</string>
+    <string name="notif_action_taken">✓ Taken</string>
+    <string name="notif_action_skip">Skip</string>
+
+    <!-- Arrays for spinners -->
+    <string-array name="gender_options">
+        <item>Select Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+        <item>Prefer not to say</item>
+    </string-array>
+
+    <string-array name="blood_group_options">
+        <item>Unknown</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+</resources>
