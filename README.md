@@ -125,49 +125,50 @@ Update Logs & Vital Records
 
 ## 🔹 User Profile Save Interface
 
-![Profile Save](screenshots/profile_save.png)
+<img src="screenshots/profile_save.png" width="300"/>
 
 ---
 
 ## 🔹 Home Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+<img src="screenshots/dashboard.png" width="300"/>
 
 ---
 
 ## 🔹 Medicine Management Interface
 
-![Medicine](screenshots/medicine.png)
+<img src="screenshots/medicine.png" width="300"/>
 
 ---
 
 ## 🔹 Add Medicine Screen
 
-![Add Medicine](screenshots/add_medicine.png)
+<img src="screenshots/add_medicine.png" width="300"/>
 
 ---
 
 ## 🔹 Vital Health Logging Interface
 
-![Vitals](screenshots/vitals.png)
+<img src="screenshots/vitals.png" width="300"/>
 
 ---
 
 ## 🔹 ASHA Connect Interface
 
-![ASHA](screenshots/asha.png)
+<img src="screenshots/asha.png" width="300"/>
 
 ---
 
 ## 🔹 Profile Management Interface
 
-![Profile](screenshots/profile.png)
+<img src="screenshots/profile.png" width="300"/>
+
 
 ---
 
 # 🔄 Flowchart
 
-![Flowchart](screenshots/flowchart.png)
+<img src="screenshots/flowchart.png" width="700"/>
 
 ---
 
