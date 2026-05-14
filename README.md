@@ -119,7 +119,7 @@ Update Logs & Vital Records
 
 ## 🔹 User Onboarding and Profile Setup
 
-![Onboarding](screenshots/onboarding.png)
+<img src="screenshots/onboarding.png" width="300"/>
 
 ---
 
